@@ -1,15 +1,9 @@
 ---
-new_page_extension: md
+new_page_extension: html
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: zerononce/jekyll-TeXt-theme
-  label: Try#2 i aint got no hoes
-  create: all
-  match: "**/*"
-  new_doc_ext: ".*"
 - type: directory
   path: zerononce/jekyll-TeXt-theme
   label: Everything
